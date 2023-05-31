@@ -117,7 +117,6 @@ public class Trader<T> {
 
         return sold_at_least_one;
     }
-
     /**
      * Buy items from other.
      *
