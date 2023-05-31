@@ -74,10 +74,6 @@ public class Trader<T> {
         else{ return Tradable.MISSING_PRICE;}
     }
 
-
-
-
-
     /**
      * Exchange money from other to this Trader according to the price of item,
      * if other has enough money. Otherwise, returns False.
